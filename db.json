@@ -170,11 +170,11 @@
         },
         {
             "categoria": "Pinturas, Pegamentos y Accesorios",
-            "nombre": "Pintura Latex Interior (Gallón)",
+            "nombre": "Albalatex Pintura Latex Interior Mate",
             "codigo": "PPA001",
-            "precio": 29.99,
+            "precio": 59800,
             "stock": 15,
-            "imagen_url": "https://ejemplo.com/imagen10.jpg"
+            "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_689650-MLU71486298078_092023-V.webp"
         }
     ]
 }
