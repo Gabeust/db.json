@@ -65,8 +65,8 @@
             "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_958525-MLA51088348889_082022-W.webp"
         },
         {
-            "categoria": "Cerraduras",
-            "nombre": "Cerradura para puerta abatible Prive Zincado 200 color plateado",
+            "categoria": "Cerraduras",    
+            "nombre": "Cerradura para puerta abatible Prive Zincado 200",
             "codigo": "CER002",
             "precio": 5609,
             "stock": 30,
@@ -98,7 +98,7 @@
         },
         {
             "categoria": "Herramientas",
-            "nombre": "Kit Herramientas Precision 115 En 1 Celulares",
+            "nombre": "Kit completo Herramientas Precision 115 En 1 Celulares",
             "codigo": "HER001",
             "precio": 8500,
             "stock": 50,
